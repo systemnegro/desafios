@@ -1,3 +1,4 @@
+
 body {
     background: #A3ADA6;
     font: normal 15pt Arial;
@@ -11,11 +12,11 @@ header {
 }
 
 section {
-   
+    min-width: 300px;
+    max-width: 700px;
     background: #E0CCCC;
     border-radius: 10px;
     padding: 25px;
-    width: 700px;
     margin:auto;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
 }
